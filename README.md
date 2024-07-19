@@ -2,9 +2,9 @@
 
 ###
 
-<p align="center">I'm a <strong>junior developer</strong> having fun playing with everything 🔍</p>
-<p align="center">My main work is making <strong>APIs</strong> and basically <strong>connecting things together</strong> 🔌</p>
-<p align="center">Most of <strong>my work is practical</strong> because I have a hard time learning by theory 📖</p>
+<p align="center">I'm a <strong>junior developer</strong> having fun playing with everything </p>
+<p align="center">I mostly work on my own projects such as the LCFR API or the LCFR bash</p>
+<p align="center">I also work on projects with a team such as for miwa.lol or the lces discord bot.</p>
 
 ###
 
