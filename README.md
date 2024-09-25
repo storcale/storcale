@@ -3,8 +3,23 @@
 ###
 
 <p align="center">I'm a <strong>junior developer</strong> having fun playing with everything </p>
-<p align="center">I mostly work on my own projects such as the LCFR API or the LCFR bash</p>
+<p align="center">I mostly work on my own projects such as the LCFR API or small projects like AIs <em>(not machine learning)</em></p>
 <p align="center">I also work on projects with a team such as for miwa.lol or the lces discord bot.</p>
+<br>
+<p align="center">I love making small projects now and then , e.g to beat a website, which help me take breaks from bigger projects!</p>
+
+###
+
+<h2 align="center">Miwa.lol</h2>
+<p align="center">I am a learning developer for Miwa.lol</p>
+<p align="center">I learn web developement with Miwa.lol and hope that this project comes to a sucessfull business!</p>
+<div align="center">
+ <a href="https://miwa.lol">miwa.lol</a>
+ <br>
+ <a href="https://miwa.lol">my miwa profile</a>
+</div>
+
+###
 
 ###
 
