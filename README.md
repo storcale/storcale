@@ -30,7 +30,6 @@
 <p align="center">The LCFR API is the constant constinuation of the work I've done for a gaming community</p>
 <p align="center">This project covers all the aspects of my work, from applications to backend</p>
 <p align="center">All the repos with a productions release are <strong>actively being used</strong>, and I always work on improving and fixing everything!</p>
-<p align="center">https://github.com/users/storcale/projects/3/views/1</p>
 <div align="center">
  <a href="https://github.com/storcale/LCFR-API">
   <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=storcale&show_owner=true&repo=LCFR-API&theme=dark">
