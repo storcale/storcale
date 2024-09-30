@@ -50,7 +50,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="35" alt="C# logo" />
   <img width="12" />
-  <img src=" https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" height="35" alt="Powershell logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" height="35" alt="Powershell logo" />
   <img width="12" />
 
 </div>
