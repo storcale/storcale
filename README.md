@@ -16,7 +16,7 @@
 <div align="center">
  <a href="https://miwa.lol">miwa.lol</a>
  <br>
- <a href="https://miwa.lol">my miwa profile</a>
+ <a href="https://miwa.lol/storcale">my miwa profile</a>
 </div>
 
 ###
