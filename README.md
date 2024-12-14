@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I'm a <strong>junior developer</strong> having fun playing with everything from small projects (beaver-bank, websites AIs) to big projects (lces bot, https://miwa.lol)</p>
+<p align="center">I'm a <strong>junior developer</strong> having fun playing with everything from small projects (e.g: county longford interactive map, websites AIs) to big projects (lces bot, https://miwa.lol)</p>
 
 ###
 
