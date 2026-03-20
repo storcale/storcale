@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm storcale 👋</h1>
 
 ###
-<p align="center">Developer for <a href="https://miwa.lol">miwa.lol</a> since 2024! </p>
+<p align="center">Developer for <a href="https://miwa.lol">miwa.lol</a> since 2024! (<a href="https://help.miwa.lol/misc/open-source/">technologies and credits</a>)</p> 
 <p align="center">I'm a <strong>junior developer</strong> having fun playing with everything from small projects to big projects!</p>
 <p align="center">I love learning new things and Languages!</p>
 
