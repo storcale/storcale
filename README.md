@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm storcale 👋</h1>
 
 ###
-
+<p align="center">Developer for <a href="https://miwa.lol">miwa.lol</a> since 2024! </p>
 <p align="center">I'm a <strong>junior developer</strong> having fun playing with everything from small projects to big projects!</p>
 <p align="center">I love learning new things and Languages!</p>
 
@@ -15,6 +15,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="35" alt="node.js logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" height="35" alt="Powershell logo" />
   <img width="12" />
